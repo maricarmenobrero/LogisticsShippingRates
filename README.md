@@ -1,43 +1,57 @@
 # LogisticsShippingRates
-English:
+### English
+
 Please consider the below factors while contributing
 
-Code Style:
+## Code Style:
+
 Maintain a consistent code style for readability.
 
-Documentation:
+## Documentation:
+
 Ensure well-documented code for effective collaboration.
 
-Testing:
+## Testing:
+
 Thoroughly test your changes before submitting a pull request.
 
-Issue Tracker:
+## Issue Tracker:
+
 Check the Issue Tracker for tasks.
 
-Code Review:
+## Code Review:
+
 All contributions undergo a code review process.
 
-Licensing:
+## Licensing:
+
 Contributions are licensed.
 
 
-Español:
+### Español
+
 Por favor, ten en cuenta los siguientes factores al contribuir:
 
-Estilo de código:
+## Estilo de código:
+
 Mantén un estilo de código coherente para facilitar la legibilidad.
 
-Documentación:
+## Documentación:
+
 Asegúrate de que el código esté bien documentado para fomentar una colaboración eficaz.
 
-Pruebas:
+## Pruebas:
+
 Prueba exhaustivamente tus cambios antes de enviar una pull request.
 
-Seguimiento de incidencias:
+## Seguimiento de incidencias:
+
 Consulta el *Issue Tracker* para ver las tareas pendientes.
 
-Revisión de código:
+## Revisión de código:
+
 Todas las contribuciones pasan por un proceso de revisión de código.
 
-Licencias:
+## Licencias:
+
 Las contribuciones estarán sujetas a licencia.
